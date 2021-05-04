@@ -1,0 +1,11 @@
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.Application.Contracts\bin\Debug\netcoreapp3.0\Pos.Api.Application.Contracts.deps.json
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.Application.Contracts\bin\Debug\netcoreapp3.0\Pos.Api.Application.Contracts.dll
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.Application.Contracts\bin\Debug\netcoreapp3.0\Pos.Api.Application.Contracts.pdb
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.Application.Contracts\bin\Debug\netcoreapp3.0\Pos.Api.Business.dll
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.Application.Contracts\bin\Debug\netcoreapp3.0\Pos.Api.Business.pdb
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.Application.Contracts\obj\Debug\netcoreapp3.0\Pos.Api.Application.Contracts.AssemblyInfoInputs.cache
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.Application.Contracts\obj\Debug\netcoreapp3.0\Pos.Api.Application.Contracts.AssemblyInfo.cs
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.Application.Contracts\obj\Debug\netcoreapp3.0\Pos.Api.Application.Contracts.csproj.CopyComplete
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.Application.Contracts\obj\Debug\netcoreapp3.0\Pos.Api.Application.Contracts.dll
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.Application.Contracts\obj\Debug\netcoreapp3.0\Pos.Api.Application.Contracts.pdb
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.Application.Contracts\obj\Debug\netcoreapp3.0\Pos.Api.Application.Contracts.csprojAssemblyReference.cache

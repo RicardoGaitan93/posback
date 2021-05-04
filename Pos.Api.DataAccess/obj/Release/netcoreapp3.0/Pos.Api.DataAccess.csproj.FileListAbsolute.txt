@@ -1,0 +1,3 @@
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.DataAccess\obj\Release\netcoreapp3.0\Pos.Api.DataAccess.csprojAssemblyReference.cache
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.DataAccess\obj\Release\netcoreapp3.0\Pos.Api.DataAccess.AssemblyInfoInputs.cache
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.DataAccess\obj\Release\netcoreapp3.0\Pos.Api.DataAccess.AssemblyInfo.cs

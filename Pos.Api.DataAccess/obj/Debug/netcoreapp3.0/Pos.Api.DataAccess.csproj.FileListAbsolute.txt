@@ -1,0 +1,16 @@
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.DataAccess\obj\Debug\netcoreapp3.0\Pos.Api.DataAccess.csprojAssemblyReference.cache
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.DataAccess\obj\Debug\netcoreapp3.0\Pos.Api.DataAccess.AssemblyInfoInputs.cache
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.DataAccess\obj\Debug\netcoreapp3.0\Pos.Api.DataAccess.AssemblyInfo.cs
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.DataAccess\bin\Debug\netcoreapp3.0\Pos.Api.DataAccess.deps.json
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.DataAccess\bin\Debug\netcoreapp3.0\Pos.Api.DataAccess.runtimeconfig.json
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.DataAccess\bin\Debug\netcoreapp3.0\Pos.Api.DataAccess.runtimeconfig.dev.json
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.DataAccess\bin\Debug\netcoreapp3.0\Pos.Api.DataAccess.dll
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.DataAccess\bin\Debug\netcoreapp3.0\Pos.Api.DataAccess.pdb
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.DataAccess\bin\Debug\netcoreapp3.0\Pos.Api.Business.dll
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.DataAccess\bin\Debug\netcoreapp3.0\Pos.Api.DataAccess.Contracts.dll
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.DataAccess\bin\Debug\netcoreapp3.0\Pos.Api.Business.pdb
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.DataAccess\bin\Debug\netcoreapp3.0\Pos.Api.DataAccess.Contracts.pdb
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.DataAccess\obj\Debug\netcoreapp3.0\Pos.Api.DataAccess.csproj.CopyComplete
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.DataAccess\obj\Debug\netcoreapp3.0\Pos.Api.DataAccess.dll
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.DataAccess\obj\Debug\netcoreapp3.0\Pos.Api.DataAccess.pdb
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.DataAccess\obj\Debug\netcoreapp3.0\Pos.Api.DataAccess.genruntimeconfig.cache

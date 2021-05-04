@@ -1,0 +1,3 @@
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api\obj\Release\netcoreapp3.0\Pos.Api.AssemblyInfoInputs.cache
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api\obj\Release\netcoreapp3.0\Pos.Api.AssemblyInfo.cs
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api\obj\Release\netcoreapp3.0\Pos.Api.MvcApplicationPartsAssemblyInfo.cache

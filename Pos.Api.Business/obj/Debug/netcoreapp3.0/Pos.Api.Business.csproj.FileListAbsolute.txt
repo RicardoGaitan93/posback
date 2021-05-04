@@ -1,0 +1,8 @@
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.Business\bin\Debug\netcoreapp3.0\Pos.Api.Business.deps.json
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.Business\bin\Debug\netcoreapp3.0\Pos.Api.Business.dll
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.Business\bin\Debug\netcoreapp3.0\Pos.Api.Business.pdb
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.Business\obj\Debug\netcoreapp3.0\Pos.Api.Business.AssemblyInfoInputs.cache
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.Business\obj\Debug\netcoreapp3.0\Pos.Api.Business.AssemblyInfo.cs
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.Business\obj\Debug\netcoreapp3.0\Pos.Api.Business.dll
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.Business\obj\Debug\netcoreapp3.0\Pos.Api.Business.pdb
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.Business\obj\Debug\netcoreapp3.0\Pos.Api.Business.csprojAssemblyReference.cache

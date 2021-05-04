@@ -1,0 +1,381 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.Application\\Pos.Api.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.Application.Contracts\\Pos.Api.Application.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.Application.Contracts\\Pos.Api.Application.Contracts.csproj",
+        "projectName": "Pos.Api.Application.Contracts",
+        "projectPath": "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.Application.Contracts\\Pos.Api.Application.Contracts.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.Application.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.Business\\Pos.Api.Business.csproj": {
+                "projectPath": "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.Business\\Pos.Api.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.Application\\Pos.Api.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.Application\\Pos.Api.Application.csproj",
+        "projectName": "Pos.Api.Application",
+        "projectPath": "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.Application\\Pos.Api.Application.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.Application.Contracts\\Pos.Api.Application.Contracts.csproj": {
+                "projectPath": "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.Application.Contracts\\Pos.Api.Application.Contracts.csproj"
+              },
+              "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.Business\\Pos.Api.Business.csproj": {
+                "projectPath": "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.Business\\Pos.Api.Business.csproj"
+              },
+              "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.DataAccess.Contracts\\Pos.Api.DataAccess.Contracts.csproj": {
+                "projectPath": "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.DataAccess.Contracts\\Pos.Api.DataAccess.Contracts.csproj"
+              },
+              "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.DataAccess\\Pos.Api.DataAccess.csproj": {
+                "projectPath": "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.DataAccess\\Pos.Api.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.Business\\Pos.Api.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.Business\\Pos.Api.Business.csproj",
+        "projectName": "Pos.Api.Business",
+        "projectPath": "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.Business\\Pos.Api.Business.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.DataAccess.Contracts\\Pos.Api.DataAccess.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.DataAccess.Contracts\\Pos.Api.DataAccess.Contracts.csproj",
+        "projectName": "Pos.Api.DataAccess.Contracts",
+        "projectPath": "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.DataAccess.Contracts\\Pos.Api.DataAccess.Contracts.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.DataAccess.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.DataAccess\\Pos.Api.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.DataAccess\\Pos.Api.DataAccess.csproj",
+        "projectName": "Pos.Api.DataAccess",
+        "projectPath": "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.DataAccess\\Pos.Api.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.Business\\Pos.Api.Business.csproj": {
+                "projectPath": "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.Business\\Pos.Api.Business.csproj"
+              },
+              "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.DataAccess.Contracts\\Pos.Api.DataAccess.Contracts.csproj": {
+                "projectPath": "C:\\POS_Dev\\Back - End\\Pos.Api\\Pos.Api.DataAccess.Contracts\\Pos.Api.DataAccess.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

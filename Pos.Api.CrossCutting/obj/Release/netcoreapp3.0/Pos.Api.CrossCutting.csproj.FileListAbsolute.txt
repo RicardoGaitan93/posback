@@ -1,0 +1,2 @@
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.CrossCutting\obj\Release\netcoreapp3.0\Pos.Api.CrossCutting.AssemblyInfoInputs.cache
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.CrossCutting\obj\Release\netcoreapp3.0\Pos.Api.CrossCutting.AssemblyInfo.cs

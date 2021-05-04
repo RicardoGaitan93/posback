@@ -1,0 +1,8 @@
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.DataAccess.Contracts\bin\Debug\netcoreapp3.0\Pos.Api.DataAccess.Contracts.deps.json
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.DataAccess.Contracts\bin\Debug\netcoreapp3.0\Pos.Api.DataAccess.Contracts.dll
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.DataAccess.Contracts\bin\Debug\netcoreapp3.0\Pos.Api.DataAccess.Contracts.pdb
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.DataAccess.Contracts\obj\Debug\netcoreapp3.0\Pos.Api.DataAccess.Contracts.AssemblyInfoInputs.cache
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.DataAccess.Contracts\obj\Debug\netcoreapp3.0\Pos.Api.DataAccess.Contracts.AssemblyInfo.cs
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.DataAccess.Contracts\obj\Debug\netcoreapp3.0\Pos.Api.DataAccess.Contracts.dll
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.DataAccess.Contracts\obj\Debug\netcoreapp3.0\Pos.Api.DataAccess.Contracts.pdb
+C:\POS_Dev\Back - End\Pos.Api\Pos.Api.DataAccess.Contracts\obj\Debug\netcoreapp3.0\Pos.Api.DataAccess.Contracts.csprojAssemblyReference.cache
